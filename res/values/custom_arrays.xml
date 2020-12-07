@@ -377,6 +377,7 @@
         <item>@string/fod_recog_animation_bluefirework</item>
         <item>@string/fod_recog_animation_coloros7_1</item>
         <item>@string/fod_recog_animation_coloros7_2</item>
+        <item>@string/fod_recog_animation_mi_a3</item>
     </string-array>
 
     <string-array name="fod_recog_animation_values" translatable="false">
@@ -402,5 +403,6 @@
         <item>19</item>
         <item>20</item>
         <item>21</item>
+        <item>22</item>
     </string-array>
 </resources>
